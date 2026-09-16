@@ -8,8 +8,8 @@ Scripting + 苹果快捷指令：截取英文界面，识别文字位置，调�
 
 在 iPhone 上打开 [最新安装包](https://github.com/qqqqqq219499-cmd/iphone-screen-translation/releases/latest)。
 
-1. 先下载 `原位屏幕翻译-直装版.scripting`，用 Scripting 打开并导入；保留项目名称 **原位屏幕翻译-直装版**。已有同名项目时使用 App 的更新/替换选项。
-2. 再下载 `原位屏幕翻译-直装版.shortcut`，添加到快捷指令；本次需要替换旧快捷指令，因为旧版翻译动作的输入变量格式错误。
+1. 先下载 [ScreenTranslation.scripting](https://github.com/qqqqqq219499-cmd/iphone-screen-translation/releases/latest/download/ScreenTranslation.scripting)，用 Scripting 打开并导入；保留项目名称 **原位屏幕翻译-直装版**。已有同名项目时使用 App 的更新/替换选项。
+2. 再下载 [ScreenTranslation.shortcut](https://github.com/qqqqqq219499-cmd/iphone-screen-translation/releases/latest/download/ScreenTranslation.shortcut)，添加到快捷指令；本次需要改用这个修正版，因为旧版翻译动作的输入变量格式错误。下载名使用英文避免 GitHub 去除中文；快捷指令添加后可改为你喜欢的中文名称，但 Scripting 项目名不要改。
 3. 如系统询问是否允许从其他 App 粘贴，允许 Scripting 读取本次输入。
 4. 从普通英文页面触发，不要在快捷指令编辑器里截屏测试。可将“轻点背面”绑定到此快捷指令。
 
