@@ -1,0 +1,10 @@
+{
+  "name": "原位屏幕翻译-直装版",
+  "icon": "character.bubble",
+  "color": "rgba(10, 132, 255, 1)",
+  "version": "0.2.1",
+  "remoteResource": {
+    "url": "https://github.com/qqqqqq219499-cmd/iphone-screen-translation",
+    "autoUpdateInterval": 3600
+  }
+}
